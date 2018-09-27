@@ -1,4 +1,4 @@
-# Google SpreadSheet -> JSON/DataTable
+# Google SpreadSheet -> JSON
 
 An easy and quick way to get data from GoogleSpreadSheet
 
