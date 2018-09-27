@@ -27,15 +27,11 @@ googleSpreadsheet2json({
 
 ## Examples
 
-Test result:
-
 <img width='500' src="https://i.imgur.com/TiuqCP7.png">
 
 Spreadsheets used:
 
 <img width='500' src="https://i.imgur.com/35zMDNs.png">
-
-and
 
 <img width='500' src="https://i.imgur.com/RFS20bR.png">
 
