@@ -2,7 +2,9 @@ const GoogleSpreadsheet = require('google-spreadsheet');
 
 exports = module.exports = ({
 	spreadsheetID,
-	credential
+	credential,
+	maxRow = 1000,
+	excludeSheets
 }) => {
 	return new Promise((resolve, reject) => {
 		const doc = new GoogleSpreadsheet(spreadsheetID);
@@ -15,10 +17,13 @@ exports = module.exports = ({
 
 				info.worksheets.map((sheet, i) => {
 					qGetSheetsData.push(new Promise((resolve, reject) => {
-						getCellsValue(sheet).then(_cells => {
-							sheetsData[i] = _cells;
-							resolve();
-						}).catch(err => reject(err));
+						if (excludeSheets.includes(i)) resolve();
+						else {
+							getCellsValue(sheet, maxRow).then(_cells => {
+								sheetsData[i] = _cells;
+								resolve();
+							}).catch(err => reject(err));
+						}
 					}));
 				});
 
@@ -28,11 +33,11 @@ exports = module.exports = ({
 	});
 };
 
-const getCellsValue = sheet => {
+const getCellsValue = (sheet, maxRow) => {
 	return new Promise((resolve, reject) => {
 		sheet.getCells({
 			'min-row': 1,
-			'max-row': 1000
+			'max-row': maxRow
 		}, (err, cells) => {
 			if (err) reject(err); const _cells = {};
 			cells.map(cell => {

@@ -12,8 +12,10 @@ An easy and quick way to get data from GoogleSpreadSheet
 const googleSpreadsheet2json = require('google-spreadsheet-2-json');
 
 googleSpreadsheet2json({
-	spreadsheetID: '1lrW6tZfaIceqpsxmz59nQHmsWFfRsNAjLH_f8oaiNbY',
-	credential: require('../../Private/readSpreadsheetsCredential.json')
+	spreadsheetID: '10FoJGSlPTjKOEuGnvx4e94HRRu2tEtwuhaZrgQgXsaE',
+	credential: require('../../Private/readSpreadsheetsCredential.json'),
+	maxRow: 200, // optional
+	excludeSheets: [1, 2, 3, 4] //optional //starting in 0
 }).then(sheets => {
 	console.log(`done -> ${Object.keys(sheets).length} sheets`);
 	Object.keys(sheets).map(key => {
