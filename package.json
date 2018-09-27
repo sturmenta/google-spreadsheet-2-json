@@ -1,0 +1,19 @@
+{
+  "name": "google-spreadsheet-2-json",
+  "version": "1.0.0",
+  "description": "Google SpreadSheet -> JSON/DataTable",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sturmenta/google-spreadsheet-2-json.git"
+  },
+  "author": "sturmenta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sturmenta/google-spreadsheet-2-json/issues"
+  },
+  "homepage": "https://github.com/sturmenta/google-spreadsheet-2-json#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.5"
+  }
+}
