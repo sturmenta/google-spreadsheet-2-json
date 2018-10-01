@@ -17,7 +17,7 @@ exports = module.exports = ({
 
 				info.worksheets.map((sheet, i) => {
 					qGetSheetsData.push(new Promise((resolve, reject) => {
-						if (excludeSheets.includes(i)) resolve();
+						if (excludeSheets && excludeSheets.includes(i)) resolve();
 						else {
 							getCellsValue(sheet, maxRow).then(_cells => {
 								sheetsData[i] = _cells;
