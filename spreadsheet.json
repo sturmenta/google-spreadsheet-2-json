@@ -1,0 +1,1512 @@
+{
+  "0": {
+    "0": {
+      "0": "companyName",
+      "1": "Social Media Handle",
+      "2": "socialMediaHandle",
+      "3": "address",
+      "4": "lat",
+      "5": "lng",
+      "6": "image"
+    },
+    "1": {
+      "0": "Tianti Books",
+      "1": "tiantiofficial",
+      "2": "@tiantiofficial",
+      "3": "535 8th Ave, New York, NY 10018",
+      "4": "40.753948",
+      "5": "-73.992415",
+      "6": "https://www.dropbox.com/s/0aa31tp98v48xrr/Tianti%20Books.jpg?dl=0"
+    },
+    "2": {
+      "0": "AWS Popup Loft",
+      "1": "AWS Pop-up Loft",
+      "2": "@AWS Pop-up Loft",
+      "3": "350 W Broadway, New York, NY 10013",
+      "4": "40.72282",
+      "5": "-74.00369",
+      "6": "https://www.dropbox.com/s/0gfn7kvtwkfd9t0/AWS%20Pop-up%20Loft.jpg?dl=0"
+    },
+    "3": {
+      "0": "Pause Cafe",
+      "1": "pausecafenyc",
+      "2": "@pausecafenyc",
+      "3": "3 Clinton St, New York, NY 10002",
+      "4": "40.721227",
+      "5": "-73.98408",
+      "6": "https://www.dropbox.com/s/0hhjgnxgqe1ky9a/zpause%20cafe.jpg?dl=0"
+    },
+    "4": {
+      "0": "Why Not Coffee",
+      "1": "WhynotCoffeenyc",
+      "2": "@WhynotCoffeenyc",
+      "3": "175 Orchard St, New York, NY 10002",
+      "4": "40.721715",
+      "5": "-73.988504",
+      "6": "https://www.dropbox.com/s/0mab8v2d75imt05/zwhy%20not.jpg?dl=0"
+    },
+    "5": {
+      "0": "Reunion NYC",
+      "1": "reunionyc",
+      "2": "@reunionyc",
+      "3": "544 Union Ave, Brooklyn, NY 11211",
+      "4": "40.71631",
+      "5": "-73.95199",
+      "6": "https://www.dropbox.com/s/10a9ammnupooxge/Reunion%20NYC.jpg?dl=0"
+    },
+    "6": {
+      "0": "The Roost Cafe & Bar ",
+      "1": "theroostnyc",
+      "2": "@theroostnyc",
+      "3": "222 Avenue B, New York, NY 10009",
+      "4": "40.729065",
+      "5": "-73.978445",
+      "6": "https://www.dropbox.com/s/19vdy2x62gq0xbk/The%20Roost%20Cafe%20%26%20Bar%20.jpg?dl=0"
+    },
+    "7": {
+      "0": "Perpetuum Cafe",
+      "1": "perpetuumcafe",
+      "2": "@perpetuumcafe",
+      "3": "124 W 25th St, New York, NY 10001",
+      "4": "40.744555",
+      "5": "-73.992992",
+      "6": "https://www.dropbox.com/s/1c6v795qocf3upu/Perpetuum%20Cafe.jpg?dl=0"
+    },
+    "8": {
+      "0": "Joe & The Juice",
+      "1": "joeandthejuice",
+      "2": "@joeandthejuice",
+      "3": "67 Spring St, New York, NY 10036",
+      "4": "40.72254",
+      "5": "-73.99747",
+      "6": "https://www.dropbox.com/s/1fta0cddfbn5m6a/zjoe%20and%20the%20juice.jpg?dl=0"
+    },
+    "9": {
+      "0": "2 Beans",
+      "1": "2beansnyc",
+      "2": "@2beansnyc",
+      "3": "100 Park Ave, Ste 1600, New York, NY 10017",
+      "4": "40.75129",
+      "5": "-73.97889",
+      "6": "https://www.dropbox.com/s/1sh6khga9lm6mit/Z2%20beans.jpg?dl=0"
+    },
+    "10": {
+      "0": "Manhattanville Coffee",
+      "1": "manhattanvillecoffee",
+      "2": "@manhattanvillecoffee",
+      "3": "142 Edgecombe Ave, New York NY 10030",
+      "4": "40.821312",
+      "5": "-73.944561",
+      "6": "https://www.dropbox.com/s/2b2sedjp0x2gpq6/zmanhattanville.jpg?dl=0"
+    },
+    "11": {
+      "0": "Ludlow Coffee Supply",
+      "1": "ludlowcoffeesupply",
+      "2": "@ludlowcoffeesupply",
+      "3": "176 Ludlow St, New York, NY 10002",
+      "4": "40.72168",
+      "5": "-73.987423",
+      "6": "https://www.dropbox.com/s/2d7xkph6ddzipz6/Ludlow%20Coffee%20Supply.jpg?dl=0"
+    },
+    "12": {
+      "0": "Fiat Café",
+      "1": "fiatcafenyc",
+      "2": "@fiatcafenyc",
+      "3": "203 Mott St, New York, NY 10012",
+      "4": "40.72148",
+      "5": "-73.99565",
+      "6": "https://www.dropbox.com/s/2tk6l95zgd20gwo/fiat%20cafe.jpg?dl=0"
+    },
+    "13": {
+      "0": "Kobrick Coffee",
+      "1": "kobrickcoffee",
+      "2": "@kobrickcoffee",
+      "3": "24 9th Ave, New York, NY 10014",
+      "4": "40.740447",
+      "5": "-74.005506",
+      "6": "https://www.dropbox.com/s/31d9a647vhor227/Kobrick%20Coffee.jpg?dl=0"
+    },
+    "14": {
+      "0": "birchcoffee",
+      "1": "birchcoffee",
+      "2": "@birchcoffee",
+      "3": "134 1/2 E 62nd St, New York, NY 10065",
+      "4": "40.7661",
+      "5": "-73.97095",
+      "6": "https://www.dropbox.com/s/3i8c4n61kyhm2jo/birch%20coffee.jpg?dl=0"
+    },
+    "15": {
+      "0": "O Cafe",
+      "1": "ocafenyc",
+      "2": "@ocafenyc",
+      "3": "482 6th Ave, New York, NY 10011",
+      "4": "40.73596",
+      "5": "-73.99774",
+      "6": "https://www.dropbox.com/s/3t0qj5wb26254lk/zO%20cafe.jpg?dl=0"
+    },
+    "16": {
+      "0": "Blue Bottle Coffee",
+      "1": "BlueBottle",
+      "2": "@BlueBottle",
+      "3": "85 Dean St, Brooklyn, NY 11201",
+      "4": "40.68736",
+      "5": "-73.98977",
+      "6": "https://www.dropbox.com/s/3yvxm8odfcklm6y/zblue%20bottle.jpg?dl=0"
+    },
+    "17": {
+      "0": "Bean & Bean Organic Coffee",
+      "1": "beannbeanfl",
+      "2": "@beannbeanfl",
+      "3": "189 Main Street, Fort Lee NJ 07024",
+      "4": "40.85078",
+      "5": "-73.966678",
+      "6": "https://www.dropbox.com/s/4dd0avci46nf6wr/zbean%20and%20bean%20FL.jpg?dl=0"
+    },
+    "18": {
+      "0": "Input Lofts",
+      "1": "input_lofts",
+      "2": "@input_lofts",
+      "3": "58 E. 11th Street, New York NY 10003",
+      "4": "40.732851",
+      "5": "-73.992513",
+      "6": "https://www.dropbox.com/s/5lnuj2ylvmtqu0h/Input%20Lofts.jpg?dl=0"
+    },
+    "19": {
+      "0": "MUD Coffee",
+      "1": "mudcoffeenyc",
+      "2": "@mudcoffeenyc",
+      "3": "307 E 9th St, New York, NY 10003",
+      "4": "40.729049",
+      "5": "-73.986678",
+      "6": "https://www.dropbox.com/s/5m9c2u3do6mr4ep/MUD%20Coffe.jpg?dl=0"
+    },
+    "20": {
+      "0": "Project Cozy",
+      "1": "projectcozy",
+      "2": "@projectcozy",
+      "3": "398 Broome St, New York, NY 10013",
+      "4": "40.72071",
+      "5": "-73.99713",
+      "6": "https://www.dropbox.com/s/5n8426qfsnymruv/Project%20Cozy.jpg?dl=0"
+    },
+    "21": {
+      "0": "BESFREN",
+      "1": "besfrennyc",
+      "2": "@besfrennyc",
+      "3": "315 5th Ave, New York, NY 10016",
+      "4": "40.74682",
+      "5": "-73.98524",
+      "6": "https://www.dropbox.com/s/62ezcvij84y37nm/BESFREN.jpg?dl=0"
+    },
+    "22": {
+      "0": "COFFEED - Chelsea ",
+      "1": "Coffeed",
+      "2": "@Coffeed",
+      "3": "590 Avenue of the Americas, New York, NY 10011",
+      "4": "40.7389",
+      "5": "-73.99518",
+      "6": "https://www.dropbox.com/s/62glqz9il19vplz/zcoffeed%20chelsea.jpg?dl=0"
+    },
+    "23": {
+      "0": "Gotham Cafe",
+      "3": "1298 2nd Ave, New York, NY 10021 ",
+      "4": "40.76666",
+      "5": "-73.9596",
+      "6": "https://www.dropbox.com/s/63imeldh0oaix1o/zgotham%20cafe.jpg?dl=0"
+    },
+    "24": {
+      "0": "Bistro Versailles",
+      "1": "bistroversailles",
+      "2": "@bistroversailles",
+      "3": "339 Greenwich Ave, Greenwich, CT 06830",
+      "4": "41.024812",
+      "5": "-73.625378",
+      "6": "https://www.dropbox.com/s/69avc5optpe0j7y/Bistro%20Versailles.jpg?dl=0"
+    },
+    "25": {
+      "0": "Tisserie",
+      "1": "tisserie",
+      "2": "@tisserie",
+      "3": "870 7th Ave, New York, NY 10019",
+      "4": "40.764609",
+      "5": "-73.980929",
+      "6": "https://www.dropbox.com/s/716cw0tojvnwq45/Tisserie.jpg?dl=0"
+    },
+    "26": {
+      "0": "Russ & Daughters Cafe",
+      "1": "russanddaughters",
+      "2": "@russanddaughters",
+      "3": "127 Orchard St, New York, NY 10002",
+      "4": "40.719639",
+      "5": "-73.989563",
+      "6": "https://www.dropbox.com/s/77unoctxtmuxnks/Russ%20%26%20Daughters%20Cafe.jpg?dl=0"
+    },
+    "27": {
+      "0": "Oslo Coffee Roasters",
+      "1": "oslocoffee",
+      "2": "@oslocoffee",
+      "3": "422 E 75th St, New York, NY 10021",
+      "4": "40.769248",
+      "5": "-73.953635",
+      "6": "https://www.dropbox.com/s/7wj2t8aloxy7lyi/zOslo%20cafe.jpg?dl=0"
+    },
+    "28": {
+      "0": "Upright Coffee",
+      "1": "upright coffee",
+      "2": "@upright coffee",
+      "3": "860 Manhattan Ave, Brooklyn, NY 11222",
+      "4": "40.729265",
+      "5": "-73.953734",
+      "6": "https://www.dropbox.com/s/8e3live8qlli4jf/Upright%20Coffee.jpg?dl=0"
+    },
+    "29": {
+      "0": "Le Moulin a Cafe",
+      "1": "lemoulinacafeny",
+      "2": "@lemoulinacafeny",
+      "3": "1439 York Ave, New York, NY 10075",
+      "4": "40.769786",
+      "5": "-73.951836",
+      "6": "https://www.dropbox.com/s/8g3jh6y7ywoy6zn/Le%20Moulin%20a%20Cafe.jpg?dl=0"
+    },
+    "30": {
+      "0": "Maman Meatpacking",
+      "1": "_mamannyc_",
+      "2": "@_mamannyc_",
+      "3": "837 Washington St, New York, NY 10014",
+      "4": "40.740693",
+      "5": "-74.007484",
+      "6": "https://www.dropbox.com/s/93g9g46e1o23ymh/zmaman%202.jpg?dl=0"
+    },
+    "31": {
+      "0": "Nobletree  ",
+      "1": "nobletree.coffee",
+      "2": "@nobletree.coffee",
+      "3": "499 Van Brunt Street, Unit 3A Brooklyn, New York 11231 ",
+      "4": "40.673318",
+      "5": "-74.016708",
+      "6": "https://www.dropbox.com/s/9zx1goe4vw2gb7v/znoble%20tree.jpg?dl=0"
+    },
+    "32": {
+      "0": "Blank Slate",
+      "1": "blankslatenyc",
+      "2": "@blankslatenyc",
+      "3": "121 Madison Ave, New York, NY 10016",
+      "4": "40.74537",
+      "5": "-73.98453",
+      "6": "https://www.dropbox.com/s/a4gmlyhhe1ufqfh/Blank%20Slate.jpg?dl=0"
+    },
+    "33": {
+      "0": "Champion coffee",
+      "1": "championcoffee",
+      "2": "@championcoffee",
+      "3": "210 East 67th Street, New York, NY 10065  ",
+      "4": "40.76608",
+      "5": "-73.96238",
+      "6": "https://www.dropbox.com/s/a4h323v5e4z4n35/zchampion%20coffee.jpg?dl=0"
+    },
+    "34": {
+      "0": "Champion coffee",
+      "1": "championcoffee",
+      "2": "@championcoffee",
+      "3": "319 E 14th St, New York, NY 10003",
+      "4": "40.73224",
+      "5": "-73.9839",
+      "6": "https://www.dropbox.com/s/a4h323v5e4z4n35/zchampion%20coffee.jpg?dl=0"
+    },
+    "35": {
+      "0": "Champion coffee",
+      "1": "championcoffee",
+      "2": "@championcoffee",
+      "3": "1107 Manhattan Ave, Brooklyn, NY 11222",
+      "4": "40.73628",
+      "5": "-73.95557",
+      "6": "https://www.dropbox.com/s/a4h323v5e4z4n35/zchampion%20coffee.jpg?dl=0"
+    },
+    "36": {
+      "0": "Champion coffee",
+      "1": "championcoffee",
+      "2": "@championcoffee",
+      "3": "142 Nassau Ave, Brooklyn, NY 11222",
+      "4": "40.72459",
+      "5": "-73.9476",
+      "6": "https://www.dropbox.com/s/a4h323v5e4z4n35/zchampion%20coffee.jpg?dl=0"
+    },
+    "37": {
+      "0": "Champion coffee ",
+      "1": "championcoffee",
+      "2": "@championcoffee",
+      "3": "103 N 3rd St, Brooklyn, NY 11249",
+      "4": "40.716827",
+      "5": "-73.961966",
+      "6": "https://www.dropbox.com/s/a4h323v5e4z4n35/zchampion%20coffee.jpg?dl=0"
+    },
+    "38": {
+      "0": "Gotan",
+      "1": "gotannyc",
+      "2": "@gotannyc",
+      "3": "130 Franklin St, New York, NY 10013",
+      "4": "40.7192",
+      "5": "-74.006616",
+      "6": "https://www.dropbox.com/s/a95pn7biia72wzr/zgotan.jpg?dl=0"
+    },
+    "39": {
+      "0": "Flor de Azalea Cafe",
+      "1": "flordeazaleacafe",
+      "2": "@flordeazaleacafe",
+      "3": "902 34th Ave, Queens, NY 11106",
+      "4": "40.7654",
+      "5": "-73.93992",
+      "6": "https://www.dropbox.com/s/aa9mm30p9hf7mx0/Flor%20de%20Azalea%20Cafe.jpg?dl=0"
+    },
+    "40": {
+      "0": "Red Pipe Cafe",
+      "1": "redpipecafe",
+      "2": "@redpipecafe",
+      "3": "71-60 Austin St, Forest Hills, NY 11375",
+      "4": "40.71944",
+      "5": "-73.84352",
+      "6": "https://www.dropbox.com/s/acdx5dq7ks1lray/Red%20Pipe%20Cafe.jpg?dl=0"
+    },
+    "41": {
+      "0": "Petrie Court",
+      "1": "Petrie Court Cafe and Wine Bar",
+      "2": "@Petrie Court Cafe and Wine Bar",
+      "3": "1000 5th Ave, New York 10028",
+      "4": "40.778374",
+      "5": "-73.963155",
+      "6": "https://www.dropbox.com/s/aiotle5xdw1gk6a/Petrie%20Court.jpg?dl=0"
+    },
+    "42": {
+      "0": "Frisson Espresso",
+      "1": "frissonespresso",
+      "2": "@frissonespresso",
+      "3": "326 W 47th St New York, NY 10036",
+      "4": "40.76079",
+      "5": "-73.98899",
+      "6": "https://www.dropbox.com/s/b2wk9epbfs0f2h0/zfrisson.jpg?dl=0"
+    },
+    "43": {
+      "0": "Rex Coffee NYC",
+      "1": "rexcoffeenyc",
+      "2": "@rexcoffeenyc",
+      "3": "864 10th Ave, New York, NY 10019",
+      "4": "40.768818",
+      "5": "-73.988553",
+      "6": "https://www.dropbox.com/s/bmbhvvwgi9175y6/Rex%20Coffee%20NYC.jpg?dl=0"
+    },
+    "44": {
+      "0": "Perk Kafe",
+      "1": "perkkafenyc",
+      "2": "@perkkafenyc",
+      "3": "162 E 37th St, New York, NY 10016",
+      "4": "40.747711",
+      "5": "-73.977248",
+      "6": "https://www.dropbox.com/s/byp6bmmu7gh2139/zPerk%20cafe.jpg?dl=0"
+    },
+    "45": {
+      "0": "Ninth Street Espresso",
+      "1": "ninthstreetespresso",
+      "2": "@ninthstreetespresso",
+      "3": "700 East 9th, New York, NY 10009",
+      "4": "40.725104",
+      "5": "-73.977798",
+      "6": "https://www.dropbox.com/s/c4l0jlke6pt9mto/zninth%20street.jpg?dl=0"
+    },
+    "46": {
+      "0": "Doctor's Cave Cafe",
+      "1": "doctorscavecafe",
+      "2": "@doctorscavecafe",
+      "3": "856 Marcy Ave, Brooklyn, NY 11216",
+      "4": "40.68953",
+      "5": "-73.94808",
+      "6": "https://www.dropbox.com/s/ceqcwavpmqde65i/Doctor%27s%20Cave%20Cafe.jpg?dl=0"
+    },
+    "47": {
+      "0": "Bosie Bakery",
+      "1": "bosiebakery",
+      "2": "@bosiebakery",
+      "3": "2132 2nd Ave, New York, NY 10029",
+      "4": "40.79291",
+      "5": "-73.94041",
+      "6": "https://www.dropbox.com/s/cqg72ba297t1kdw/Bosie%20Bakery.jpg?dl=0"
+    },
+    "48": {
+      "0": "Two Forks",
+      "1": "twoforksnyc",
+      "2": "@twoforksnyc",
+      "3": "119 W. 40th Street, New York NY 10018",
+      "4": "40.754021",
+      "5": "-73.985898",
+      "6": "https://www.dropbox.com/s/dguseht3sql3kav/Two%20Forks.jpg?dl=0"
+    },
+    "49": {
+      "0": "Southern Cross Coffee",
+      "1": "southerncrosscoffee",
+      "2": "@southerncrosscoffee",
+      "3": "300 E 5th St, New York, NY 10003",
+      "4": "40.726586",
+      "5": "-73.988734",
+      "6": "https://www.dropbox.com/s/diw16cjeq3x2m3i/Southern%20Cross%20Coffee.jpg?dl=0"
+    },
+    "50": {
+      "0": "Bluestone Lane",
+      "1": "bluestonelanecoffee",
+      "2": "@bluestonelanecoffee",
+      "3": "805 3rd Ave, New York, NY 10022",
+      "4": "40.75538",
+      "5": "-73.97054",
+      "6": "https://www.dropbox.com/s/du403fmlmigtxdr/zbluestone%20lane.jpg?dl=0"
+    },
+    "51": {
+      "0": "Le Pain Quotidien Hudson Street",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "550 Hudson Street New York, NY 10014",
+      "4": "40.735053",
+      "5": "-74.005904",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "52": {
+      "0": "Le Pain Quotidien King & Hudson",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "375 Hudson Street, New York, NY 10014",
+      "4": "40.728418",
+      "5": "-74.007368",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "53": {
+      "0": "Le Pain Quotidien Lincoln Plaza",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "60 W 65th St, New York, NY 10023",
+      "4": "40.77242",
+      "5": "-73.98096",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "54": {
+      "0": "Le Pain Quotidien Madison Avenue",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "1131 Madison Ave, New York, NY 10028",
+      "4": "40.77995",
+      "5": "-73.95935",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "55": {
+      "0": "Le Pain Quotidien Meatpacking District",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "52 9th Ave, New York, NY 10011",
+      "4": "40.74102",
+      "5": "-74.00504",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "56": {
+      "0": "Le Pain Quotidien Minetta & Bleecker",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "205 Bleecker Street, New York, NY 10012",
+      "4": "40.729599",
+      "5": "-74.001834",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "57": {
+      "0": "Le Pain Quotidien Montage Street",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "121 Montague Street Brooklyn, NY 11201",
+      "4": "40.694972",
+      "5": "-73.994498",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "58": {
+      "0": "Le Pain Quotidien Rockefeller Center",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "1271 6th Ave, New York, NY 10020",
+      "4": "40.7617",
+      "5": "-73.98301",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "59": {
+      "0": "Le Pain Quotidien soho ",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "100 Grand St, New York, NY 10013",
+      "4": "40.721425",
+      "5": "-74.001622",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "60": {
+      "0": "Le Pain Quotidien South end Avenue",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "395 South End Avenue, New York, NY 10280",
+      "4": "40.711384",
+      "5": "-74.016109",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "61": {
+      "0": "Le Pain Quotidien Tribeca",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "81 W Broadway, New York, NY 10007",
+      "4": "40.715041",
+      "5": "-74.009399",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "62": {
+      "0": "Le Pain Quotidien Union Square",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "801 Broadway, New York, NY 10003",
+      "4": "40.732694",
+      "5": "-73.991393",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "63": {
+      "0": "Le Pain Quotidien Washington Square",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "10 Fifth Avenue New York, NY 10011",
+      "4": "40.732434",
+      "5": "-73.996449",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "64": {
+      "0": "Le Pain Quotidien Yacht Club",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "East 72nd & 5th Ave, New York, NY 10021",
+      "4": "40.769263",
+      "5": "-73.959065",
+      "6": "https://www.dropbox.com/s/dzv4r8n0fxcyeb5/zle%20pain%202.jpg?dl=0"
+    },
+    "65": {
+      "0": "Dot & Line",
+      "1": "dotandlinebk",
+      "2": "@dotandlinebk",
+      "3": "253 Bergen Street, Brooklyn NY 11217",
+      "4": "40.684143",
+      "5": "-73.983592",
+      "6": "https://www.dropbox.com/s/e3rdqvz9offe122/Dot%20%26%20Line.jpg?dl=0"
+    },
+    "66": {
+      "0": "Sweatshop Coffee Brooklyn",
+      "1": "sweatshop_nyc",
+      "2": "@sweatshop_nyc",
+      "3": "232 Metropolitan Ave, Brooklyn, NY 11211",
+      "4": "40.714926",
+      "5": "-73.959709",
+      "6": "https://www.dropbox.com/s/ek7sj96fok5gk4u/Sweatshop%20Coffee%20Brooklyn.jpg?dl=0"
+    },
+    "67": {
+      "0": "Bean & Bean Coffee",
+      "1": "beannbeanchelsea ",
+      "2": "@beannbeanchelsea ",
+      "3": "318 8th Ave, New York, NY 10002",
+      "4": "40.74685",
+      "5": "-73.99696",
+      "6": "https://www.dropbox.com/s/ev0uaphf30hooky/zbean%20and%20bean%20chelsea.jpg?dl=0"
+    },
+    "68": {
+      "0": "Green Pear Cafe",
+      "1": "green_pear_cafe",
+      "2": "@green_pear_cafe",
+      "3": "93 Grand St, Hoboken, NJ 07030",
+      "4": "40.738155",
+      "5": "-74.036295",
+      "6": "https://www.dropbox.com/s/ez4nzle29pjl5vo/Green%20Pear%20Cafe.jpg?dl=0"
+    },
+    "69": {
+      "0": "The Warehouse Cafe",
+      "1": "thewarehousejc",
+      "2": "@thewarehousejc",
+      "3": "140 Bay St, Jersey City, NJ 07302",
+      "4": "40.720767",
+      "5": "-74.039289",
+      "6": "https://www.dropbox.com/s/f3tyxt2yegy0kuq/The%20Warehouse%20Cafe.jpg?dl=0"
+    },
+    "70": {
+      "0": "Gregory’s Coffee",
+      "1": "gregoryscoffee",
+      "2": "@gregoryscoffee",
+      "3": "874 6th Avenue, New York NY 10001",
+      "4": "40.74763",
+      "5": "-73.98924",
+      "6": "https://www.dropbox.com/s/f9gftmiyav32ok1/zgregorys.jpg?dl=0"
+    },
+    "71": {
+      "0": "Banter",
+      "1": "banter_nyc",
+      "2": "@banter_nyc",
+      "3": "169 Sullivan St, New York, NY 10012",
+      "4": "40.72791",
+      "5": "-74.00102",
+      "6": "https://www.dropbox.com/s/fbf0ukx3xkk02q8/banter_nyc.jpg?dl=0"
+    },
+    "72": {
+      "0": "WorkWellWin",
+      "1": "workwellwin",
+      "2": "@workwellwin",
+      "3": "330 Railroad Ave 2nd floor, Greenwich, CT 06830",
+      "4": "41.020976",
+      "5": "-73.632652",
+      "6": "https://www.dropbox.com/s/g4nxys2aa65ecdb/zWorkwell.jpg?dl=0"
+    },
+    "73": {
+      "0": "adhoccollective",
+      "1": "adhoccollective ",
+      "2": "@adhoccollective ",
+      "3": "13 Christopher Street, Lower Level, New York, New York 10014",
+      "4": "40.7341",
+      "5": "-74.00048",
+      "6": "https://www.dropbox.com/s/gb7lbmud8s0m0gy/adhoccollective%20.jpg?dl=0"
+    },
+    "74": {
+      "0": "Cafe Jax",
+      "1": "cafejax",
+      "2": "@cafejax",
+      "3": "318 E 84th Street, New York, NY 10028",
+      "4": "40.77596",
+      "5": "-73.95195",
+      "6": "https://www.dropbox.com/s/gm9gwze6ly0kziy/Cafe%20Jax.jpg?dl=0"
+    },
+    "75": {
+      "0": "Old Country Coffee",
+      "1": "oldcountrycoffee",
+      "2": "@oldcountrycoffee",
+      "3": "455 W 34th St, New York, NY 10001",
+      "4": "40.754458",
+      "5": "-73.998437",
+      "6": "https://www.dropbox.com/s/hm0mipp9wzxgqex/Old%20Country%20Coffee.jpg?dl=0"
+    },
+    "76": {
+      "0": "Rebel Coffee",
+      "1": "rebelcoffeenyc",
+      "2": "@rebelcoffeenyc",
+      "3": "19 8th Ave, New York, NY 10014",
+      "4": "40.737823",
+      "5": "-74.004721",
+      "6": "https://www.dropbox.com/s/hv8fnbtw5vf3to3/Rebel%20Coffee.jpg?dl=0"
+    },
+    "77": {
+      "0": "Proof Coffee Roaster",
+      "1": "proofcoffeeroasters",
+      "2": "@proofcoffeeroasters",
+      "3": "335 E 27th St, New York, NY 10016",
+      "4": "40.73993",
+      "5": "-73.977517",
+      "6": "https://www.dropbox.com/s/hy4e7jlvawjwra7/zProof%20coffee.jpg?dl=0"
+    },
+    "78": {
+      "0": "Cafe Grumpy",
+      "1": "cafegrumpy",
+      "2": "@cafegrumpy",
+      "3": "13 Essex St, New York, NY 10002",
+      "4": "40.71518",
+      "5": "-73.99026",
+      "6": "https://www.dropbox.com/s/ibsu3l3pj3abm1f/zcafe%20grumpy.jpg?dl=0"
+    },
+    "79": {
+      "0": "969 NYC Coffee",
+      "1": "969 NYC Coffee",
+      "2": "@969 NYC Coffee",
+      "3": "37-61 80th St, Jackson Heights, NY 11372",
+      "4": "40.75159",
+      "5": "-73.88654",
+      "6": "https://www.dropbox.com/s/iezfmic9bzp4vdf/969%20NYC%20coffee.jpg?dl=0"
+    },
+    "80": {
+      "0": "Le Pain Quotidien",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "711 Canal St, Stamford, CT 06902",
+      "4": "41.044502",
+      "5": "-73.533712",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "81": {
+      "0": "Le Pain Quotidien",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "382 Greenwich Ave, Greenwich, CT 06830",
+      "4": "41.022412",
+      "5": "-73.625169",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "82": {
+      "0": "Le Pain Quotidien 3 Park Ave",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "3 Park Ave, New York, NY 10016",
+      "4": "40.63989",
+      "5": "-74.13039",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "83": {
+      "0": "Le Pain Quotidien 65th & lexington",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "861 Lexington Ave, New York, NY 10065",
+      "4": "40.765798",
+      "5": "-73.965412",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "84": {
+      "0": "Le Pain Quotidien 85 Broad Street",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "85 Broad Street, New York, NY 10004",
+      "4": "40.7042",
+      "5": "-74.01106",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "85": {
+      "0": "Le Pain Quotidien Battery Park",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "2 River Terrace, New York, NY 10282",
+      "4": "40.71519",
+      "5": "-74.01595",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "86": {
+      "0": "Le Pain Quotidien Bleecker Street",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "65 Bleecker St, New York, NY 10012",
+      "4": "40.726269",
+      "5": "-73.995084",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "87": {
+      "0": "Le Pain Quotidien Bryant Park",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "70 W 40th St, New York, NY 10018",
+      "4": "40.753239",
+      "5": "-73.984551",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "88": {
+      "0": "Le Pain Quotidien Central Park",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "2 W 69th St, New York, NY 10023",
+      "4": "40.774338",
+      "5": "-73.977727",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "89": {
+      "0": "Le Pain Quotidien Chelsea",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "124 7th Ave, New York, NY 10011",
+      "4": "40.740832",
+      "5": "-73.99825",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "90": {
+      "0": "Le Pain Quotidien Columbus Circle",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "922 7th Ave, New York, NY 10019",
+      "4": "40.76626",
+      "5": "-73.9796",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "91": {
+      "0": "Le Pain Quotidien East 44th St",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "16 E 44th St New York, NY 10017",
+      "4": "40.75435",
+      "5": "-73.97916",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "92": {
+      "0": "Le Pain Quotidien East 53rd St",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "7 E 53rd St, New York, NY 10022",
+      "4": "40.760198",
+      "5": "-73.975053",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "93": {
+      "0": "Le Pain Quotidien Flatiron District",
+      "1": "lepainquotidienusa",
+      "2": "@lepainquotidienusa",
+      "3": "931 Broadway, New York, NY 10010",
+      "4": "40.74033",
+      "5": "-73.989668",
+      "6": "https://www.dropbox.com/s/iro9l0miol65cg9/zle%20pain%201.jpg?dl=0"
+    },
+    "94": {
+      "0": "Cafe Belle",
+      "1": "cafebellenyc",
+      "2": "@cafebellenyc",
+      "3": "280 Mulberry St, New York, NY 10012",
+      "4": "40.72433",
+      "5": "-73.99495",
+      "6": "https://www.dropbox.com/s/jpocfk4l90937dm/Cafe%20Belle.jpg?dl=0"
+    },
+    "95": {
+      "0": "The Bean",
+      "1": "thebeannyc",
+      "2": "@thebeannyc",
+      "3": "824 Broadway, New York, NY 10003",
+      "4": "40.73292",
+      "5": "-73.99108",
+      "6": "https://www.dropbox.com/s/jqyavf045vu57zg/ZThe%20bean%20nyc.jpg?dl=0"
+    },
+    "96": {
+      "0": "The Bean",
+      "1": "thebeannyc",
+      "2": "@thebeannyc",
+      "3": "54 2nd Ave, New York, NY 10003",
+      "4": "40.72561",
+      "5": "-73.989629",
+      "6": "https://www.dropbox.com/s/jqyavf045vu57zg/ZThe%20bean%20nyc.jpg?dl=0"
+    },
+    "97": {
+      "0": "The Witches Brew",
+      "1": "The Witches Brew",
+      "2": "@The Witches Brew",
+      "3": "311 Hempstead Turnpike, West Hempstead, NY 11552",
+      "4": "40.704867",
+      "5": "-73.650565",
+      "6": "https://www.dropbox.com/s/k12jxwuly6hvaq0/The%20Witches%20Brew.jpg?dl=0"
+    },
+    "98": {
+      "0": "Toby’s Estate Coffee",
+      "1": "tobysbrooklyn",
+      "2": "@tobysbrooklyn",
+      "3": "160 5th Ave, New York, NY 10010",
+      "4": "40.74028",
+      "5": "-73.99061",
+      "6": "https://www.dropbox.com/s/k3y8bmpmyhhctui/ztobys%20estate.jpg?dl=0"
+    },
+    "99": {
+      "0": "Toby’s Estate Coffee",
+      "1": "tobysbrooklyn",
+      "2": "@tobysbrooklyn",
+      "3": "44 Charles St, New York, NY 10014",
+      "4": "40.73479",
+      "5": "-74.00248",
+      "6": "https://www.dropbox.com/s/k3y8bmpmyhhctui/ztobys%20estate.jpg?dl=0"
+    },
+    "100": {
+      "0": "Gotham Roasters",
+      "1": "gothamroasters",
+      "2": "@gothamroasters",
+      "3": "23 W 19th St, New York, NY 10011",
+      "4": "40.739753",
+      "5": "-73.992685",
+      "6": "https://www.dropbox.com/s/kwfh9566wz1jpbn/Gotham%20Roasters.jpg?dl=0"
+    },
+    "101": {
+      "0": "Monkey Cup",
+      "1": "themonkeycup",
+      "2": "@themonkeycup",
+      "3": "1730 Amsterdam Ave, New York NY 10031",
+      "4": "40.825737",
+      "5": "-73.947456",
+      "6": "https://www.dropbox.com/s/lah3p8au4216emr/Monkey%20Cup.jpg?dl=0"
+    },
+    "102": {
+      "0": "Brooklyn Floral Delight",
+      "1": "bk_floral_delight",
+      "2": "@bk_floral_delight",
+      "3": "380 E 10th St, New York, NY 10009",
+      "4": "40.72605",
+      "5": "-73.97851",
+      "6": "https://www.dropbox.com/s/lea3hbdoc2rbvoi/Brooklyn%20Floral%20Delight.jpg?dl=0"
+    },
+    "103": {
+      "0": "Arlo Nomad",
+      "1": "Arlo hotels ",
+      "2": "@Arlo hotels ",
+      "3": "11 E 31st St, New York, NY 10016",
+      "4": "40.74633",
+      "5": "-73.98501",
+      "6": "https://www.dropbox.com/s/leuwyh82btptvhh/ZArlo%20nomad.jpg?dl=0"
+    },
+    "104": {
+      "0": "Ground Central Coffee",
+      "1": "groundcentral",
+      "2": "@groundcentral",
+      "3": "155 E 52nd St, New York, NY 10022",
+      "4": "40.757426",
+      "5": "-73.970421",
+      "6": "https://www.dropbox.com/s/lum6kg8jikum52i/zground%20central.jpg?dl=0"
+    },
+    "105": {
+      "0": "Tea & Sympathy",
+      "1": "teaandsympathynyc",
+      "2": "@teaandsympathynyc",
+      "3": "108 Greenwich Avenue, New York, NY 10011",
+      "4": "40.738235",
+      "5": "-74.001947",
+      "6": "https://www.dropbox.com/s/lxfubmrorlykxfr/Tea%20%26%20Sympathy.jpg?dl=0"
+    },
+    "106": {
+      "0": "Sunburst Espresso Bar",
+      "1": "Sunburstny",
+      "2": "@Sunburstny",
+      "3": "206 3rd Avenue, New York, NY 10003",
+      "4": "40.735963",
+      "5": "-73.985458",
+      "6": "https://www.dropbox.com/s/lxu9lmy98dw4aq9/Sunburst%20Espresso%20Bar.jpg?dl=0"
+    },
+    "107": {
+      "0": "Round K",
+      "1": "roundkny",
+      "2": "@roundkny",
+      "3": "99 Allen St, New York, NY 10002",
+      "4": "40.718865",
+      "5": "-73.990833",
+      "6": "https://www.dropbox.com/s/mj7uhxgalcwtfyj/Round%20K.jpg?dl=0"
+    },
+    "108": {
+      "0": "Maman Soho",
+      "1": "_mamannyc_",
+      "2": "@_mamannyc_",
+      "3": "239 Centre St, New York, NY 10013",
+      "4": "40.720239",
+      "5": "-73.998311",
+      "6": "https://www.dropbox.com/s/mq135v5p786ys0i/zmaman%203.jpg?dl=0"
+    },
+    "109": {
+      "0": "Library at the Nomad",
+      "1": "thenomadhotel",
+      "2": "@thenomadhotel",
+      "3": "1170 Broadway & 28th St, New York, NY 10001",
+      "4": "40.749165",
+      "5": "-73.997529",
+      "6": "https://www.dropbox.com/s/msztmmcqwf7dhiw/zlibrary%20at%20nomad.jpg?dl=0"
+    },
+    "110": {
+      "0": "Madman Espresso",
+      "1": "madmanespresso",
+      "2": "@madmanespresso",
+      "3": "234 W 35th Street, New York NY 10123",
+      "4": "40.75199",
+      "5": "-73.99116",
+      "6": "https://www.dropbox.com/s/n0wrxvbkivtyai5/zmadman%20espresso.jpg?dl=0"
+    },
+    "111": {
+      "0": "Hanamizuki",
+      "1": "hanamizukicafe",
+      "2": "@hanamizukicafe",
+      "3": "143 W 29th St, New York, NY 10001",
+      "4": "40.747443",
+      "5": "-73.991675",
+      "6": "https://www.dropbox.com/s/n1g0h8hbve53q8u/Hanamizuki.jpg?dl=0"
+    },
+    "112": {
+      "0": "Bushwick Grind",
+      "1": "bushwickgrind",
+      "2": "@bushwickgrind",
+      "3": "63 Whipple St, Unit 1L, Brooklyn, NY 11206",
+      "4": "40.70173",
+      "5": "-73.94453",
+      "6": "https://www.dropbox.com/s/n9mj2alcywjqxo7/Bushwick%20Grind.jpg?dl=0"
+    },
+    "113": {
+      "0": "Grainne Cafe",
+      "1": "grainne_cafe",
+      "2": "@grainne_cafe",
+      "3": "183 9th Ave, New York, NY 10011",
+      "4": "40.745385",
+      "5": "-74.002359",
+      "6": "https://www.dropbox.com/s/nalsv0qbwmbztzs/Grainne%20Cafe.jpg?dl=0"
+    },
+    "114": {
+      "0": "Culture Espresso",
+      "1": "cultureespresso",
+      "2": "@cultureespresso",
+      "3": "72 W 38th St, New York, NY 10018",
+      "4": "40.75428",
+      "5": "-73.984871",
+      "6": "https://www.dropbox.com/s/nfv69izmo00i6ec/zcurlture%20espresso.jpg?dl=0"
+    },
+    "115": {
+      "0": "12 corner coffee",
+      "1": "12cornerscoffee",
+      "2": "@12cornerscoffee",
+      "3": "155 E Broadway, New York, NY 10002",
+      "4": "40.71386",
+      "5": "-73.99057",
+      "6": "https://www.dropbox.com/s/nvfw370qtlgh2r2/12%20corners%20coffee%20.jpg?dl=0"
+    },
+    "116": {
+      "0": "REMI Flowers & coffee",
+      "1": "remi.nyc",
+      "2": "@remi.nyc",
+      "3": "906 2nd Ave, New York, NY 10017 ",
+      "4": "40.75376",
+      "5": "-73.96921",
+      "6": "https://www.dropbox.com/s/o08wbvqd2k5tmns/REMI%20Flowers%20%26%20coffee.jpg?dl=0"
+    },
+    "117": {
+      "0": "Padoca Bakery",
+      "1": "padocabakery",
+      "2": "@padocabakery",
+      "3": "359 E 68th Street, New York NY 10065",
+      "4": "40.765452",
+      "5": "-73.958103",
+      "6": "https://www.dropbox.com/s/o181si2mkuh59lt/Padoca%20Bakery.jpg?dl=0"
+    },
+    "118": {
+      "0": "Happy Bones",
+      "1": "happybonesnyc",
+      "2": "@happybonesnyc",
+      "3": "394 Broome St, New York, NY 10013",
+      "4": "40.72071",
+      "5": "-73.99713",
+      "6": "https://www.dropbox.com/s/ocups8sg451k2tl/Happy%20Bones.jpg?dl=0"
+    },
+    "119": {
+      "0": "Brooklyn Roasting Company",
+      "1": "brooklynroasting",
+      "2": "@brooklynroasting",
+      "3": "50 W 23rd St, New York, NY 10010",
+      "4": "40.705608",
+      "5": "-74.016724",
+      "6": "https://www.dropbox.com/s/ojzkvpwqzc2yaq9/zbrooklyn%20roasting.jpg?dl=0"
+    },
+    "120": {
+      "0": "Piccolo Cafe",
+      "1": "piccolocafenyc",
+      "2": "@piccolocafenyc",
+      "3": "157 3rd Ave, New York, NY 10003",
+      "4": "40.734262",
+      "5": "-73.986249",
+      "6": "https://www.dropbox.com/s/opqi83iado37dux/zPiccolo%20cafe.jpg?dl=0"
+    },
+    "121": {
+      "0": "Sugar Hill Café",
+      "1": "sugarhillcafe",
+      "2": "@sugarhillcafe",
+      "3": "410 W 145th Street, New York NY 10031",
+      "4": "40.824221",
+      "5": "-73.945596",
+      "6": "https://www.dropbox.com/s/p0lmbo61yfp93ry/Sugar%20Hill%20Caf%C3%A9.jpg?dl=0"
+    },
+    "122": {
+      "0": "KAFFE 1668 SOUTH",
+      "1": "kaffe1668south",
+      "2": "@kaffe1668south",
+      "3": "275 Greenwich St, New York, NY 10007",
+      "4": "40.715187",
+      "5": "-74.011065",
+      "6": "https://www.dropbox.com/s/p7lac82t41flbz9/KAFFE%201668%20SOUTH.jpg?dl=0"
+    },
+    "123": {
+      "0": "Bosie Tea Parlor",
+      "1": "bosieteaparlor",
+      "2": "@bosieteaparlor",
+      "3": "10 Morton St, New York, NY 10014",
+      "4": "40.73116",
+      "5": "-74.00352",
+      "6": "https://www.dropbox.com/s/p8dqh4j5gqoe54o/Bosie%20Tea%20Parlor.jpg?dl=0"
+    },
+    "124": {
+      "0": "House of Small Wonder",
+      "1": "houseofsmallwonder",
+      "2": "@houseofsmallwonder",
+      "3": "77 N 6th St, Brooklyn, NY 11211",
+      "4": "40.718958",
+      "5": "-73.960812",
+      "6": "https://www.dropbox.com/s/p9jiut8mwpoa8j1/House%20of%20Small%20Wonder.jpg?dl=0"
+    },
+    "125": {
+      "0": "Citizens of Chelsea",
+      "1": "citizensofchelsea",
+      "2": "@citizensofchelsea",
+      "3": "401 W 25th St, New York, NY 10001",
+      "4": "40.74809",
+      "5": "-74.00056",
+      "6": "https://www.dropbox.com/s/pm2j1z1c8766815/Citizens%20of%20Chelsea.jpg?dl=0"
+    },
+    "126": {
+      "0": "Argosy Books",
+      "1": "argosybookstore",
+      "2": "@argosybookstore",
+      "3": "116 E 59th St, New York, NY 10022",
+      "4": "40.76236",
+      "5": "-73.96922",
+      "6": "https://www.dropbox.com/s/pnt65ch18153dmj/argosybookstore.jpg?dl=0"
+    },
+    "127": {
+      "0": "Spreadhouse Cafe",
+      "1": "spreadhousecafe",
+      "2": "@spreadhousecafe",
+      "3": "116 Suffolk St, New York, NY 10002",
+      "4": "40.718957",
+      "5": "-73.986001",
+      "6": "https://www.dropbox.com/s/pvvimchxkav39uf/Spreadhouse%20Cafe.jpg?dl=0"
+    },
+    "128": {
+      "0": "bel ami cafe",
+      "1": "belamicafe",
+      "2": "@belamicafe",
+      "3": "30 E 68th St, New York, NY 10065",
+      "4": "40.76899",
+      "5": "-73.96712",
+      "6": "https://www.dropbox.com/s/q4m3m70q22ildhj/belamicafe.jpg?dl=0"
+    },
+    "129": {
+      "0": "CitizenM Hotel",
+      "1": "citizenm",
+      "2": "@citizenm",
+      "3": "218 W 50th Street, New York, NY 10019",
+      "4": "40.76155",
+      "5": "-73.98494",
+      "6": "https://www.dropbox.com/s/qan55fjzci4vsd5/zcitizen%20m.jpg?dl=0"
+    },
+    "130": {
+      "0": "Saltwater Coffee",
+      "1": "saltwaternyc",
+      "2": "@saltwaternyc",
+      "3": "345 E 12th St, New York, NY 10003",
+      "4": "40.730323",
+      "5": "-73.984024",
+      "6": "https://www.dropbox.com/s/qcydoyk4o27kqmv/Saltwater%20Coffee.jpg?dl=0"
+    },
+    "131": {
+      "0": "Kava Cafe",
+      "1": "kavacafe",
+      "2": "@kavacafe",
+      "3": "803 Washington St New York, NY 10014",
+      "4": "40.738967",
+      "5": "-74.007937",
+      "6": "https://www.dropbox.com/s/r0va8413dkikm47/Kava%20Cafe.jpg?dl=0"
+    },
+    "132": {
+      "0": "East One Coffee Roaster",
+      "1": "eastonecoffee",
+      "2": "@eastonecoffee",
+      "3": "384 Court St, Brooklyn, NY 11231",
+      "4": "40.68123",
+      "5": "-73.99674",
+      "6": "https://www.dropbox.com/s/r86hho3wa912191/East%20One%20Coffee%20Roaster.jpg?dl=0"
+    },
+    "133": {
+      "0": "La Colombe Coffee Roasters",
+      "1": "lacolombecoffee",
+      "2": "@lacolombecoffee",
+      "3": "319 Church St, New York, NY 10013",
+      "4": "40.719891",
+      "5": "-74.003827",
+      "6": "https://www.dropbox.com/s/r9uzdp3rg98piz0/zLa%20colombe.jpg?dl=0"
+    },
+    "134": {
+      "0": "Telegraphe Cafe",
+      "1": "telegraphe_cafe",
+      "2": "@telegraphe_cafe",
+      "3": "107 W 18th St, New York, NY 10011",
+      "4": "40.74006",
+      "5": "-73.995228",
+      "6": "https://www.dropbox.com/s/riap6eyf9ryj701/Telegraphe%20Cafe.jpg?dl=0"
+    },
+    "135": {
+      "0": "cfcf Coffee Café Roasters",
+      "1": "cfcfroasters",
+      "2": "@cfcfroasters",
+      "3": "118 Greenwich Ave, Greenwich, CT 06830",
+      "4": "41.028927",
+      "5": "-73.62664",
+      "6": "https://www.dropbox.com/s/roj070s3ieapxem/zcfcf.jpg?dl=0"
+    },
+    "136": {
+      "0": "Greecologies",
+      "1": "greecologies",
+      "2": "@greecologies",
+      "3": "379 Broome St, New York, NY 10013",
+      "4": "40.720255",
+      "5": "-73.996517",
+      "6": "https://www.dropbox.com/s/s3gl5svy5j35nqc/Greecologies.jpg?dl=0"
+    },
+    "137": {
+      "0": "Stella & Fly",
+      "1": "stella_and_fly_",
+      "2": "@stella_and_fly_",
+      "3": "1705 1st Avenue, New York, NY",
+      "4": "40.778552",
+      "5": "-73.948391",
+      "6": "https://www.dropbox.com/s/s53rrffu9onke37/zStella%20and%20fly.jpg?dl=0"
+    },
+    "138": {
+      "0": "Think Coffee",
+      "1": "thinkcoffeenyc",
+      "2": "@thinkcoffeenyc",
+      "3": "620 W 42nd Street, New York NY 10036",
+      "4": "40.76098",
+      "5": "-73.99893",
+      "6": "https://www.dropbox.com/s/sfp4ws0tp3nyi47/zThink%20coffee.jpg?dl=0"
+    },
+    "139": {
+      "0": "Think Coffee",
+      "1": "thinkcoffeenyc",
+      "2": "@thinkcoffeenyc",
+      "3": "280 3rd Ave, New York, NY 10010",
+      "4": "40.73076",
+      "5": "-73.97514",
+      "6": "https://www.dropbox.com/s/sfp4ws0tp3nyi47/zThink%20coffee.jpg?dl=0"
+    },
+    "140": {
+      "0": "QWNS Cafe",
+      "1": "qwnscafe",
+      "2": "@qwnscafe",
+      "3": "2235 31st St, Astoria, NY 11105",
+      "4": "40.78018",
+      "5": "-73.91358",
+      "6": "https://www.dropbox.com/s/soyc9cq469baxep/zQWNS.jpg?dl=0"
+    },
+    "141": {
+      "0": "Pourt",
+      "1": "pourtcafe",
+      "2": "@pourtcafe",
+      "3": "35 Cooper Square, New York NY 10003",
+      "4": "40.72778",
+      "5": "-73.99077",
+      "6": "https://www.dropbox.com/s/ssj36aqanl5x70u/zPourt%20cafe.jpg?dl=0"
+    },
+    "142": {
+      "0": "Coffee Project",
+      "1": "coffeeprojectny",
+      "2": "@coffeeprojectny",
+      "3": "239 E 5th St, New York, NY 10003",
+      "4": "40.72698",
+      "5": "-73.9891",
+      "6": "https://www.dropbox.com/s/te41tirwy0ynfn1/Coffee%20Project.jpg?dl=0"
+    },
+    "143": {
+      "0": "Lion's Milk",
+      "1": "lionsmilkbrooklyn",
+      "2": "@lionsmilkbrooklyn",
+      "3": "104 Roebling St, Brooklyn, NY 11211",
+      "4": "40.715897",
+      "5": "-73.955756",
+      "6": "https://www.dropbox.com/s/ty4dse0xzf5fuvb/Lion%27s%20Milk.jpg?dl=0"
+    },
+    "144": {
+      "0": "Grace Street Cafe",
+      "1": "gracestreetcafe",
+      "2": "@gracestreetcafe",
+      "3": "17 W 32nd St, New York, NY 10001",
+      "4": "40.747714",
+      "5": "-73.986582",
+      "6": "https://www.dropbox.com/s/u7xv6me7j2uy6dx/Grace%20Street%20Cafe.jpg?dl=0"
+    },
+    "145": {
+      "0": "Ground Support Cafe",
+      "1": "groundsupportcafe",
+      "2": "@groundsupportcafe",
+      "3": "399 W Broadway, New York, NY 10012",
+      "4": "40.724285",
+      "5": "-74.001974",
+      "6": "https://www.dropbox.com/s/u970m0l0ydlum5f/Ground%20Support%20Cafe.jpg?dl=0"
+    },
+    "146": {
+      "0": "Mr. Moustache Coffee Shop",
+      "1": "moustachecoffeenyc14",
+      "2": "@moustachecoffeenyc14",
+      "3": "227 E 14th St, New York, NY 10003",
+      "4": "40.732944",
+      "5": "-73.985973",
+      "6": "https://www.dropbox.com/s/uicag179szhdw9q/zmoustache.jpg?dl=0"
+    },
+    "147": {
+      "0": "Roost",
+      "1": "roostdarien",
+      "2": "@roostdarien",
+      "3": "1950 Post Rd, Darien, CT 06820",
+      "4": "41.060191",
+      "5": "-73.486105",
+      "6": "https://www.dropbox.com/s/uo9svm2k424npyr/The%20Roost.jpg?dl=0"
+    },
+    "148": {
+      "0": "Little Collins NYC",
+      "1": "littlecollinsnyc",
+      "2": "@littlecollinsnyc",
+      "3": "667 Lexington Ave, New York, NY 10022",
+      "4": "40.759901",
+      "5": "-73.969679",
+      "6": "https://www.dropbox.com/s/utvxc1ws5wkf8pn/Little%20Collins%20NYC.jpg?dl=0"
+    },
+    "149": {
+      "0": "Cafe Beit",
+      "1": "Cafe Beit",
+      "2": "@Cafe Beit",
+      "3": "158 Bedford Ave, Brooklyn, NY 11249",
+      "4": "40.71872",
+      "5": "-73.95711",
+      "6": "https://www.dropbox.com/s/v0khwrqei3icv4d/Cafe%20Beit.jpg?dl=0"
+    },
+    "150": {
+      "0": "Society Cafe",
+      "1": "societycafenyc",
+      "2": "@societycafenyc",
+      "3": "52 W 13th St, New York, NY 10011",
+      "4": "40.736239",
+      "5": "-73.996575",
+      "6": "https://www.dropbox.com/s/vg9ddcn9dd4soeq/Society%20Cafe.jpg?dl=0"
+    },
+    "151": {
+      "0": "Maman Tribecca",
+      "1": "_mamannyc_",
+      "2": "@_mamannyc_",
+      "3": "211 W Broadway, New York, NY 10013",
+      "4": "40.718911",
+      "5": "-74.006358",
+      "6": "https://www.dropbox.com/s/vrrj0e0rcm51hwq/zmaman%20hudson.jpg?dl=0"
+    },
+    "152": {
+      "0": "Red Eye Coffee ",
+      "1": "redeyecoffeenyc",
+      "2": "@redeyecoffeenyc",
+      "3": "423 9th Ave, New York, New York ",
+      "4": "40.753249",
+      "5": "-73.996629",
+      "6": "https://www.dropbox.com/s/w3edyywnkt4yw8b/Red%20Eye%20Coffee%20.jpg?dl=0"
+    },
+    "153": {
+      "0": "Cafe Bari",
+      "1": "cafebarinyc",
+      "2": "@cafebarinyc",
+      "3": "1033 Ave Of The Americas, New York, NY 10018",
+      "4": "40.75283",
+      "5": "-73.98575",
+      "6": "https://www.dropbox.com/s/wtgrvwkziflbbu4/zcafebari.jpg?dl=0"
+    },
+    "154": {
+      "0": "Sweet Moment",
+      "1": "sweetmomentnyc",
+      "2": "@sweetmomentnyc",
+      "3": "106 Mott St, New York, NY 10013",
+      "4": "40.717631",
+      "5": "-73.99714",
+      "6": "https://www.dropbox.com/s/x8kcuu0rx9xv10z/Sweet%20Moment.jpg?dl=0"
+    },
+    "155": {
+      "0": "Domicile ",
+      "1": "_domicile ",
+      "2": "@_domicile ",
+      "3": "185 Howard Ave, Brooklyn NY 11233",
+      "4": "40.68299",
+      "5": "-73.92002",
+      "6": "https://www.dropbox.com/s/xhyvs6wjdx1y3db/Domicile%20.jpg?dl=0"
+    },
+    "156": {
+      "0": "Le Baratin",
+      "1": "lebaratin",
+      "2": "@lebaratin",
+      "3": "26 Greenwich Ave, New York, NY 10011",
+      "4": "40.734976",
+      "5": "-73.999985",
+      "6": "https://www.dropbox.com/s/xoop0lvatgq9jb2/Le%20Baratin.jpg?dl=0"
+    },
+    "157": {
+      "0": "Third Rail Coffee",
+      "1": "thirdrailcoffee",
+      "2": "@thirdrailcoffee",
+      "3": "240 Sullivan St, New York, NY 10012",
+      "4": "40.72989",
+      "5": "-73.99962",
+      "6": "https://www.dropbox.com/s/xpyg4vse5ex8z9n/zThird%20Rail.jpg?dl=0"
+    },
+    "158": {
+      "0": "For Five Coffee",
+      "1": "forfive",
+      "2": "@forfive",
+      "3": "117 W 46th St, New York, NY 10036",
+      "4": "40.76218",
+      "5": "-73.99361",
+      "6": "https://www.dropbox.com/s/xumbjwyi6vd7ce8/zfor%20five.jpg?dl=0"
+    },
+    "159": {
+      "0": "La Lanterna de Vittorio",
+      "1": "lalanternacaffe",
+      "2": "@lalanternacaffe",
+      "3": "129 MacDougal St, New York, NY 10012",
+      "4": "40.730649",
+      "5": "-74.000069",
+      "6": "https://www.dropbox.com/s/xuv2nmuvpjgnpdv/zla%20lanterna.jpg?dl=0"
+    },
+    "160": {
+      "0": "DeCicco & Sons",
+      "1": "deciccos",
+      "2": "@deciccos",
+      "3": "17 Maple Ave, Armonk, NY 10504",
+      "4": "41.12635",
+      "5": "-73.7119",
+      "6": "https://www.dropbox.com/s/xzdpqqzsqkl49oy/zdecicco.jpg?dl=0"
+    },
+    "161": {
+      "0": "Black Cat LES",
+      "1": "blackcatles",
+      "2": "@blackcatles",
+      "3": "172 Rivington St, New York, NY 10002",
+      "4": "40.71912",
+      "5": "-73.9845",
+      "6": "https://www.dropbox.com/s/y5frfqhg73hcy2e/Black%20Cat%20LES.jpg?dl=0"
+    },
+    "162": {
+      "0": "Intelligentsia",
+      "1": "intelligentsiacoffee",
+      "2": "@intelligentsiacoffee",
+      "3": "180 10th Ave, New York, NY 10011",
+      "4": "40.7462",
+      "5": "-74.00513",
+      "6": "https://www.dropbox.com/s/y8s15u1ftbsr0ij/zintelligentia.jpg?dl=0"
+    },
+    "163": {
+      "0": "DTUT",
+      "1": "dtut",
+      "2": "@dtut",
+      "3": "1744 2nd Ave, New York, NY 10128",
+      "4": "40.78078",
+      "5": "-73.94925",
+      "6": "https://www.dropbox.com/s/yc40y9066mme18s/DTUT.jpg?dl=0"
+    },
+    "164": {
+      "0": "Three Seat Espresso & Barber",
+      "1": "threeseatespresso",
+      "2": "@threeseatespresso",
+      "3": "137 Avenue A, New York, NY 10009",
+      "4": "40.727091",
+      "5": "-73.982962",
+      "6": "https://www.dropbox.com/s/yc6w1hjl621qmkx/Three%20Seat%20Espresso%20%26%20Barber.jpg?dl=0"
+    },
+    "165": {
+      "0": "Charter Coffee",
+      "1": "chartercoffee",
+      "2": "@chartercoffee",
+      "3": "309 Graham Ave, Brooklyn, NY 11211",
+      "4": "40.71333",
+      "5": "-73.94448",
+      "6": "https://www.dropbox.com/s/yendf9yk4lxo4fs/Charter%20Coffee.jpg?dl=0"
+    },
+    "166": {
+      "0": "Espresso NEAT",
+      "1": "neatcoffee",
+      "2": "@neatcoffee",
+      "3": "20 Grove St, Darien, CT 06820",
+      "4": "41.07568",
+      "5": "-73.47299",
+      "6": "https://www.dropbox.com/s/yxqlxpkxypmfce2/Espresso%20NEAT.jpg?dl=0"
+    },
+    "167": {
+      "0": "The Westchester Mall, tech space",
+      "3": "125 Westchester Ave, White Plains, NY 10601",
+      "4": "41.031902",
+      "5": "-73.760767",
+      "6": "https://westfaironline.com/wp-content/uploads/2017/02/Savor-Westchester.jpg"
+    }
+  }
+}
